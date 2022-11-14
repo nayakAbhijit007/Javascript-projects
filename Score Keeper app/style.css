@@ -1,0 +1,17 @@
+
+
+
+.winner{
+    color: rgb(3, 175, 3);
+}
+
+.loser{
+    color: red;
+}
+
+.center {
+    margin: auto;
+    margin-top: 10px;
+    border: 5px solid #a200d8;
+    padding: 10px;
+    }
